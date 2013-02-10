@@ -1,0 +1,1 @@
+A simple solution to Assignment 1 of CS368 - Learning a New Programming Language: C++ for Java Programmers. This assignment involves writing code that processes information about the students in a class and calculates and displays the student number of the student with the highest grade in the class. 
